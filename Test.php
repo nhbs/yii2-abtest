@@ -1,6 +1,6 @@
 <?php
 
-namespace sammaye\abtest;
+namespace nhbs\abtest;
 
 use Yii;
 use yii\base\Component;

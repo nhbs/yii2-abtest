@@ -1,18 +1,18 @@
 {
-	"name": "sammaye/yii2-abtest",
+	"name": "nhbs/yii2-abtest",
 	"description": "A generic A/B test handler for Yii2",
 	"keywords": ["yii2", "test", "ab"],
 	"type": "yii2-extension",
     "authors": [
         {
-            "name": "Sammaye",
-            "homepage": "https://www.sammaye.com"
+            "name": "nhbs",
+            "homepage": "https://www.nhbs.com"
         }
     ],
 	"require": {
 		"php": ">=5.4.0"
 	},
     "autoload": {
-        "psr-4": {"sammaye\\abtest\\": ""}
+        "psr-4": {"nhbs\\abtest\\": ""}
     }
 }
